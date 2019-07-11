@@ -1,4 +1,4 @@
 this is a text
-name:liuyingchao
-num:16030120036
+name:cat
+i'm a cat
 the text has been changed!
